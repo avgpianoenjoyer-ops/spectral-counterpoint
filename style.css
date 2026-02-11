@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     margin: 0;
-    background-color: #f5f0b3;
+    background-color: #fff8de;
 }
 
 #splash-screen {
@@ -11,6 +11,6 @@ html, body {
     transform: translate(-50%, -50%);
     text-align: center;
     font-size: 4vw;
-    font-family: "Amasis MT Pro";
-    font-color: #464b66;
+    font-family: "Roboto";
+    font-color: #576a8f;
 }
