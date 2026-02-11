@@ -18,4 +18,5 @@ html, body {
 #waiting-bar {
     background-color: #576a8f;
     width: 50%;
+    height: 10px;
 }
