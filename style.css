@@ -1,9 +1,9 @@
 #splash-screen {
-  height: 100;
-  width: 200;
+  height: 15%;
+  width: 10%;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  
-  
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
+  text-align: center;
+  flex-direction: column;
 }
