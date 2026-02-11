@@ -14,3 +14,8 @@ html, body {
     font-family: "Roboto";
     color: #576a8f;
 }
+
+#waiting-bar {
+    background-color: #576a8f;
+    width: 50%;
+}
